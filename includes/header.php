@@ -46,6 +46,12 @@
                                              <li>
                                                <a href="add_user.php">Add User</a>
                                             </li>
+                                             <li>
+                                               <a href="add_category.php">Add Category</a>
+                                            </li>
+                                             <li>
+                                               <a href="del_category.php">Delete Category</a>
+                                            </li>
                                             <li>
                                                <a href="<?php echo $log_link; ?>"><?php echo $log_link_name; ?></a>
                                             </li>
